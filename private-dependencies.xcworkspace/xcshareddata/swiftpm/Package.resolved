@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "DemoLib",
+        "repositoryURL": "https://github.com/sche/ios-demo-lib.git",
+        "state": {
+          "branch": "master",
+          "revision": "3b228a82075231962fea4b571a1b24cb9d4380a2",
+          "version": null
+        }
+      },
+      {
+        "package": "DummyLib",
+        "repositoryURL": "https://github.com/sche/ios-dummy-lib.git",
+        "state": {
+          "branch": "master",
+          "revision": "c05cb1e05e174df8a0a458e35cb0e715ba0bbdc6",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
